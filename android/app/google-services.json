@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "405177365694",
+    "project_id": "cloudstore-4361c",
+    "storage_bucket": "cloudstore-4361c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405177365694:android:80733d05f436c8face1aef",
+        "android_client_info": {
+          "package_name": "com.example.cloud_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405177365694-7us6qg3na5uljhj237b9p0gle00akcmk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9JeqadcIoW4EmICUMbwpNVRTMrwruwfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405177365694-7us6qg3na5uljhj237b9p0gle00akcmk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
